@@ -13,14 +13,14 @@ and information technology.
 - Real time database
 
 ## Application Components:
-- Main menu
+- Home Screen
     - Quiz Categories
         - Questions
             - Showing the result at the end the Quiz.
 - Side menu
 - Leaderboard
-- Settings
-- Exit
+- User Dashboard
+- Log out
 
 ## Technology Stack:
 - Java/Kotlin
