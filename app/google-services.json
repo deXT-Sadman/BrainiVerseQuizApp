@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "220617846610",
+    "project_id": "miu-lms-quiz-app",
+    "storage_bucket": "miu-lms-quiz-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220617846610:android:ef0503cebe0670c361d48b",
+        "android_client_info": {
+          "package_name": "np.com.sakibul.miulmsquizapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPavE-eqizMLE2yShCFGGMw2kqEeAh9xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
