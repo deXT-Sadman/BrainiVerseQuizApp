@@ -4,6 +4,8 @@ This quiz app is based on Andriod Studio and Firebase.
 Brainiverse app is designed to practice quiz related to computer science
 and information technology.
 
+## APK - https://drive.google.com/file/d/1Lm0L38ceYIvLS7s0ZRzJrReT5IjSD33t/view?usp=sharing
+
 ## Features:
 
 ### Authentication:
